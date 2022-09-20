@@ -22,5 +22,8 @@ int main()
     }
     atlag = atlag / N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+
+    std::cout << "Dani branch for the win!!!" << std::endl;
+
     return 0;
 }
